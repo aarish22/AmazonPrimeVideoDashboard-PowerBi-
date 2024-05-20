@@ -19,7 +19,7 @@ To view and interact with the Power BI dashboard, you will need:
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/amazon-prime-video-dashboard.git
+    git clone https://github.com/your-username/AmazonPrimevideoDashboard-PowerBi.git
     ```
 2. Open the `.pbix` file in Power BI Desktop.
 
